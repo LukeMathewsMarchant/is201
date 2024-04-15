@@ -1,3 +1,22 @@
 body{
-    background-image: url(../assets/bg.jpg);
+    background-image: url(https://storage.googleapis.com/webdesignledger.pub.network/LaT/edd/2016/02/seamless-background-textures-1-548x548.jpg);
+    font-family: 'Times New Roman', Times, serif;
+    color: black;
+    text-align: center;
+}
+.container{ 
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 40vh;
+}
+.list{
+    text-align: left !important;
+}
+.excited{
+    font-weight: bold;
+    font-size: larger;
+}
+a{
+    font-size: larger;
 }
